@@ -51,5 +51,14 @@ After creating the base stories, the below were considered to be the most import
 
 
 <h2>Milestone #3 - Wireframes & Mockups:</h2>
+Once user stories were completed, the team then began work on its wireframes focusing on the three main stories. A few designs were submitted, with ultimately the additions to Zoom in our project being placed in the bottom right-hand corner of Zoom in a small, compact form so as not to take up too much of the video feeds. Both the final wireframes and other potential designs can be found in the wireframes folder. 
+
+Once the wireframes were completed, mockups based off the wireframes we considered most appropriate were made so that we could visualize our product more fully. These mockups can be found in the mockups folder.
 
 <h2>Milestone #4 - Prototyping:</h2>
+Once the previous steps were completed, our team used Adobe XD to prototype the flow and usage of our Zoom Notebook app. It took about one week to finish the prototype, with which we then discussed testing protocol for the potential success of the application. Our testing protocol for students was as follows:
+
+* The study will be conducted as an experiment.
+* Informed consent will be gained through an explanantion detailing the goal and process of the experiment and a form for them to sign.
+* Experimental groups will be given the integrated note program.
+* Data collected will consist of a screen recording for the experimental groups and a recording of the process of the control taking notes without the application. After this an interview with both groups would be conducted.
