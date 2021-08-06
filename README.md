@@ -49,11 +49,11 @@ After creating the base stories, the below were considered to be the most import
     - Justification: Part of our proposed solution was to provide teachers with the functionality to keep track of their students. This user story covers all the functionality a teacher needs and therefore is very relevant. There is also precedent, which can be found through sites online, of teachers having a problem with participation and needing solutions, so putting one within the notes functionality is very relevant.
 
 
-
 <h2>Milestone #3 - Wireframes & Mockups:</h2>
-Once user stories were completed, the team then began work on its wireframes focusing on the three main stories. A few designs were submitted, with ultimately the additions to Zoom in our project being placed in the bottom right-hand corner of Zoom in a small, compact form so as not to take up too much of the video feeds. Both the final wireframes and other potential designs can be found in the wireframes folder. 
+Once user stories were completed, the team then began work on its wireframes focusing on the three main stories. A few designs were submitted, with ultimately the additions to Zoom in our project being placed in the bottom right-hand corner of Zoom in a small, compact form so as not to take up too much of the video feeds. Both the final wireframes and other potential designs can be found in the wireframes and mockups pdf. 
 
-Once the wireframes were completed, mockups based off the wireframes we considered most appropriate were made so that we could visualize our product more fully. These mockups can be found in the mockups folder.
+Once the wireframes were completed, mockups based off the wireframes we considered most appropriate were made so that we could visualize our product more fully. These mockups can be found in the wireframes and mockups pdf.
+
 
 <h2>Milestone #4 - Prototyping:</h2>
 Once the previous steps were completed, our team used Adobe XD to prototype the flow and usage of our Zoom Notebook app. It took about one week to finish the prototype, with which we then discussed testing protocol for the potential success of the application. Our testing protocol for students was as follows:
